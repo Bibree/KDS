@@ -35,7 +35,7 @@ body {
 }
 
 .query1 {
-    width: 16vw;
+    width: 21vw;
     height: 3vw;
     font-size: 1.75vw;
     border: 1px solid black;
@@ -43,7 +43,7 @@ body {
 }
 
 .query2 {
-    width: 16vw;
+    width: 21vw;
     height: 3vw;
     font-size: 1.75vw;
     border: 1px solid black;
@@ -51,7 +51,7 @@ body {
 }
 
 .query3 {
-    width: 34.75vw;
+    width: 47.2vw;
     height: 3vw;
     font-size: 1.75vw;
     border: 1px solid black;
@@ -76,21 +76,21 @@ a {
 
 .query {
     text-align: center;
-    width: 70%;
+    width: 96%;
     margin-left: auto;
     margin-right: auto;
 }
 
 .pd {
     font-size: 1.75vw;
-    width: 34.75vw;
+    width: 47vw;
     height: 14vw;
     border: 1px solid black;
     padding: 0%;
 }
 
 .desc {
-    width: 70%;
+    width: 96%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 14.5%;
