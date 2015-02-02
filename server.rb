@@ -53,6 +53,10 @@ get '/kineticidentity' do
     erb :"kineticidentity.html"
   end
 
+get '/royalerebrand' do
+  erb :"royalerebrand.html"
+end
+
 post "/email_support" do
   worktype = ""
 
